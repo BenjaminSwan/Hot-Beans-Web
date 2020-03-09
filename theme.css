@@ -1,0 +1,138 @@
+.btn-group button {
+  background-color: black;
+  border: 10px blue; /* white border */
+  color: white; /* black text */
+  font-size: 20px;
+  padding: 10px 15px; /* Some padding 25*/
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: white;
+  color:black;
+}
+.background{
+	background-attachment: fixed;
+}
+body{
+	background-attachment: fixed;
+}
+h1 {
+	color: white;
+	font-family: impact;
+	margin-top: -100px;
+	margin: 50px auto;
+	font-size: 701wpx;
+	max-width: 600px;
+	font-size: 70px;
+	text-align: center;
+	position: relative;
+	text-decoration: overline underline;
+
+}
+h1:before{
+	content:"";
+	display:block;
+	width: 70px;
+	height: 5px;
+	background: white;
+	position: absolute;
+	left: 0;
+	top:50%;
+}
+h1:after{
+	content:"";
+	display:block;
+	width: 70px;
+	height: 5px;
+	background: white;
+	position: absolute;
+	right:0;
+	top:50%;
+}
+h2 {
+	color: white;
+	font-family: Courier New;
+	margin: 10px auto;
+	font-size: 40px;
+	text-decoration: bold;
+	text-align: center;
+	position: relative;
+	text-decoration: ;
+}
+.boxed{
+	border:2px white;
+	color: white;
+	font-family: Courier;
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-decoration: em;
+	font-size: 25px;
+}
+.line{
+	color: rgb(139,69,19)
+	font-size: 5px;
+}
+.maxsmith{
+
+}
+.one-page{
+width:100vw;
+height:100vh;
+background:red;
+position:relative;              
+}
+.inside{
+width:10vw;
+height:10vh;
+background:black;
+position:absolute;
+top:10vh;
+left:20vw;    
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h4{
+	font-family: Courier New;
+	text-decoration:;
+	font-size: 40px;
+	position: relative;
+}
+.programming_man{
+	text-align: center;
+}
+.maxsmithstanding{
+	padding-right:50px;
+}
+.logo_head{
+	padding-top: 5px;
+	padding-bottom: -90px;
+	padding-right: 10px;
+}
+h5{
+	text-align: left;
+}
+.banner_pj1{
+	width: 100%;
+	height: 2%;
+	padding-left: 20;
+}
+h5{
+	text-align: center;
+	font-size: 40px;
+}
