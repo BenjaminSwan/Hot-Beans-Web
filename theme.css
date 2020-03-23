@@ -141,3 +141,8 @@ h5{
 	height: 2%;
 	padding-left: 20;
  }
+ .user_input{
+ 	color: white;
+	font-family: Courier;
+	text-decoration: underline overline;
+ }
