@@ -142,4 +142,9 @@ h5{
  p{
  	color: white;
  }
-	
+h6{
+	font-family: Courier New;
+	text-align: left;
+	font-size: 40px;
+
+}
