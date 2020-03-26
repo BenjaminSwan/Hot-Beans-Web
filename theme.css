@@ -22,6 +22,7 @@
 .background{
 	background-attachment: fixed;
 	background-size: cover;
+	height: 1000px
 }
 body{
 	background-attachment: fixed;
