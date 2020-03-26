@@ -21,6 +21,7 @@
 }
 .background{
 	background-attachment: fixed;
+	background-size: cover;
 }
 body{
 	background-attachment: fixed;
@@ -68,6 +69,13 @@ h2 {
 	position: relative;
 	text-decoration: ;
 }
+h3{
+	font-family: Courier New;
+	text-align: left;
+	font-size: 40px;
+	color: white:;
+
+}
 h4{
 	font-family: Courier New;
 	text-decoration:;
@@ -78,13 +86,7 @@ h5{
 	text-align: center;
 	font-size: 40px;
 }
-h6{
-	font-family: Courier New;
-	text-align: left;
-	font-size: 40px;
-	color: white:;
 
-}
 .boxed{
 	border:2px white;
 	color: white;
