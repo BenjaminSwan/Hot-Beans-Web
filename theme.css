@@ -152,12 +152,18 @@ left:20vw;
  p{
  	color: white;
  }
+.col-xs-12 {outline:1px dashed white;}
+.borderbox {
+    display:table;
+    border:5px solid magenta;
+    margin:0 auto;
+}
 .title_max{
-	font-size: 18px;
+	font-size: 22px;
 	font-family: Courier;
 	text-decoration-color: white;
 	width:auto;
 	display: block;
 	padding-right: 10px;
-	
+
 }
