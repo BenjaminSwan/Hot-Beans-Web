@@ -156,6 +156,8 @@ left:20vw;
 
 }
 .title_max{
-	position: left;
+	font-size: 18px;
 	font-family: Courier;
+	text-decoration-color: white;
+	position: relative;
 }
