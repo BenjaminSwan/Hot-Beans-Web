@@ -22,7 +22,8 @@
 .background{
 	background-attachment: fixed;
 	background-size: cover;
-	height: 1000px
+	height: 1000px;
+	width:;
 }
 body{
 	background-attachment: fixed;
@@ -151,3 +152,10 @@ left:20vw;
  p{
  	color: white;
  }
+.maxsmith_information{
+
+}
+.title_max{
+	position: left;
+	font-family: Courier;
+}
