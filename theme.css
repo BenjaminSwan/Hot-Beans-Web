@@ -159,5 +159,8 @@ left:20vw;
 	font-size: 18px;
 	font-family: Courier;
 	text-decoration-color: white;
-	padding-right: 80%;
+	text-align: justify;
+	width:[500px];
+	display: block;
+	margin: 0 auto;
 }
