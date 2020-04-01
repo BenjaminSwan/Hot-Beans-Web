@@ -156,8 +156,12 @@ left:20vw;
 	font-size: 22px;
 	font-family: Courier;
 	text-decoration-color: white;
+	text-decoration: bold;
 	width:auto;
 	display: block;
-	padding-right: 10px;
-
+	text-align: center;
+}
+.maxsmith_text{
+	font-size: 18px;
+	font-family: Courier;
 }
