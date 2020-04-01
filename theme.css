@@ -166,3 +166,22 @@ left:20vw;
 	font-family: Courier;
 	margin-right: 6000px;
 }
+
+    
+    .Profiles-row{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 90%;
+        margin-left: 5%;
+    }
+    .profile{
+        width: 20%;
+        background-color: white;
+        padding: 1%;
+        margin: 1%
+    }
+    .profile img{
+        width: 100%;
+    }
