@@ -152,15 +152,11 @@ left:20vw;
  p{
  	color: white;
  }
-.maxsmith_information{
-
-}
 .title_max{
 	font-size: 18px;
 	font-family: Courier;
 	text-decoration-color: white;
-	text-align: justify;
-	width:[500px];
+	width:auto;
 	display: block;
-	margin: 0 auto;
+	
 }
