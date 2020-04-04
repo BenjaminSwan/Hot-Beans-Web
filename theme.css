@@ -187,3 +187,18 @@ label{
 	font-family: Courier;
 	font-size: 18px;
 }
+input{
+	border:none; outline:none; background-color:white; text-decoration:none;
+    background-color: black;
+ 	border: 10px blue; 
+ 	color: white; 
+  	font-size: 20px;
+  	padding: 10px 15px; 
+  	cursor: pointer; 
+  	float: right; 
+
+}
+input:hover{  	
+	background-color: white;
+    color:black;
+}
