@@ -182,3 +182,8 @@ left:20vw;
     .profile img{
         width: 100%;
     }
+.application{
+	text-decoration: white;
+	font-family: Courier;
+	font-size: 18px;
+}
