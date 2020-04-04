@@ -185,7 +185,7 @@ left:20vw;
 label{
 	color: white;
 	font-family: Courier;
-	font-size: 18px;
+	font-size: 22px;
 }
 input{
 	border:none; outline:none; background-color:white; text-decoration:none;
@@ -195,7 +195,7 @@ input{
  	color: black; 
   	font-size: 20px;
   	cursor: pointer; 
-  	float: left; 
+ 
 }
 input:hover{  	
 	background-color: teal;
